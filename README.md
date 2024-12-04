@@ -1,6 +1,6 @@
 # [Apache Airflow®](https://airflow.apache.org/) Quickstart
 
-Welcome to the Astronomer's Apache Airflow Quickstart repository!
+Welcome to the Astronomer's Apache Airflow Quickstart repository! 
 
 Launch your journey with Airflow by signing up for a free trial at astronomer.io! If you've already created a trial and have cloned this repository, check out your chosen quickstart in the table of contents.
 
