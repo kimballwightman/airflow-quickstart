@@ -4,7 +4,7 @@
 This example demonstrates an ETL pipeline using Airflow.
 The pipeline mocks data extraction for data about galaxies using a modularized
 function, filters the data based on the distance from the Milky Way, and loads the
-filtered data into a DuckDB database.
+filtered data into a DuckDB database.  
 """
 
 from airflow.decorators import (
